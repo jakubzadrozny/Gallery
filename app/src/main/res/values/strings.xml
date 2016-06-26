@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="local_title">Local images</string>
+    <string name="flickr_title">Flickr images</string>
+    <string name="grid_title">grid layout</string>
+    <string name="staggered_title">staggered grid layout</string>
+    <string name="list_title">list layout</string>
+</resources>

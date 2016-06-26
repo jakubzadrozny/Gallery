@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/local"
+        android:title="@string/local_title"
+        android:icon="@drawable/ic_fetch_local"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/flickr"
+        android:title="@string/flickr_title"
+        android:icon="@drawable/ic_fetch_flickr"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/grid"
+        android:title="@string/grid_title"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/staggered"
+        android:title="@string/staggered_title"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/list"
+        android:title="@string/list_title"
+        app:showAsAction="never" />
+
+</menu>
